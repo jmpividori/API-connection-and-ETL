@@ -16,6 +16,10 @@ The information is extracted and transformed to be used in different parts of th
 * [ETL-Mergin in one table](https://github.com/jmpividori/API-connection-and-ETL/blob/main/Request%20merging%20all%20data.py)
 * [ETL-Categorizing data](https://github.com/jmpividori/API-connection-and-ETL/blob/main/Request%20data%20by%20quality.py)
 
+Outcome:
+  
+* [Data procesed](https://github.com/jmpividori/API-connection-and-ETL/tree/main/CSV)
+
 # Step 2:
 
 link
