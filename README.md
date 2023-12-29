@@ -10,6 +10,8 @@ The preceding phase of the project involved selecting sensors capable of measuri
 
 After completing the hardware and server setup, I created a script to retrieve data from an API provided by the manufacturer and transformed it to seamlessly integrate into a daily report management system, as detailed in step 2
 
+Script to retrieve data: https://github.com/jmpividori/API-connection-and-ETL/blob/main/Request%20by%20sensors.py
+
 # Step 2:
 
 link
